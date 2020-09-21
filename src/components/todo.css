@@ -1,0 +1,22 @@
+.statu {
+  display: inline-block;
+  margin: 10px 15px;
+  color: pink;
+}
+
+p {
+  font-style: italic;
+}
+div {
+  text-align: center;
+}
+
+input {
+  margin: 5px;
+}
+button {
+  background: pink;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
